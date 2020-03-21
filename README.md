@@ -1,6 +1,8 @@
 # AI-MealBot
 An AI based Chatbot used for healthy meal propositions. 
 
+# Overview
+
 # Installation
 1. Clone and navigate to chatbot directory.
 
@@ -15,7 +17,3 @@ python main.py
 ```
 
 4. Open http://127.0.0.1:5000 in your browser.
-
-
-```
-```
