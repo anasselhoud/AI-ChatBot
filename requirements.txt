@@ -1,0 +1,7 @@
+python=3.6.X
+flask>=0.12.3
+nltk
+tensorflow
+json
+pickle
+tflearn
