@@ -3,6 +3,8 @@ An AI based Chatbot used for healthy meal propositions. I applied this AI projec
 
 I have linked this AI Bot with Discord. 
 
+![Alt Text](https://media.giphy.com/media/hVlYEexgKvttKtqhFx/giphy.gif)
+
 # Overview
 
 # Installation
