@@ -1,5 +1,7 @@
 # AI-MealBot
-An AI based Chatbot used for healthy meal propositions. 
+An AI based Chatbot used for healthy meal propositions. I applied this AI project forIf you want to use the original code for other utilities, please contact me so I can help you to get and change the original database. 
+
+I have linked this AI Bot with Discord. 
 
 # Overview
 
