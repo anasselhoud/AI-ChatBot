@@ -1,7 +1,7 @@
 # AI-MealBot
 An AI based Chatbot used for healthy meal propositions. I applied this AI project for Health meals recommendations. If you want to use the original code for other utilities, please contact me so I can help you to get and change the original database. 
 
-I have linked this AI Bot with Discord. 
+I have linked this AI Bot with Discord. This option is nott included in the files "main.py" and "main-host.py" because the discord bot setup is required beforehand. Feel free to contact me or comment on issues page for help. 
 
 ![Alt Text](https://media.giphy.com/media/hVlYEexgKvttKtqhFx/giphy.gif)
 
@@ -17,7 +17,11 @@ pip install -r requirements.txt
 
 3. Run the python server.
 ```
-python main.py
+python main.py 
+```
+or 
+```
+python main-host.py
 ```
 
-4. Open http://127.0.0.1:5000 in your browser.
+4. Open http://127.0.0.1:5000 in your browser if you run the main-host.py file.
