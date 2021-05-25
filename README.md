@@ -20,11 +20,13 @@ https://towardsdatascience.com/how-to-build-your-own-ai-chatbot-on-discord-c6b34
 pip install -r requirements.txt
 ```
 
-3. Run the python server.
+3. Run the python server:
+
+To interact with the chatbot directly via cmd:
 ```
 python main.py 
 ```
-or 
+or to interact with the chatbot directly via a simple plateform:
 ```
 python main-host.py
 ```
