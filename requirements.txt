@@ -1,7 +1,4 @@
-python=3.8.8
 flask>=0.12.3
 nltk
-tensorflow=1.13.2
-json
-pickle
 tflearn
+tensorflow
