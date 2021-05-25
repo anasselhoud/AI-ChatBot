@@ -1,9 +1,10 @@
 # AI-MealBot
 An AI based Chatbot used for healthy meal propositions. I applied this AI project for Healthy meals recommendations based on calories and preferences. If you want to use the original code for other utilities, please contact me so I can help you to get and made the modification needed to deploy it. 
 
-I have used Nltk and Tensorflow for the construction of the model. I have shared only the code of the model and its result. It's up to you to deploy it where you want (on your localhost on on any platform dedicated to that like Discord or Telegram. 
+I have used Nltk and Tensorflow for the construction of the model. I have shared the code of the model and its result. It's up to you to deploy it using the tool you want (on your localhost or on any platform dedicated to that like Discord, Telegram...)
+I added the script "main-host.py" that can directly run a localhost in your browser where you can interact with the chatbot your trained.
 
-I have linked this AI Bot with Discord. This option is not included in the files "main.py" and "main-host.py" because the discord bot setup is required beforehand (Discord Developer mode). Feel free to contact me or use "Issues" to seek help.
+For my application, I have linked this AI Bot with Discord. As I already mentionned, this option is not included in the files "main.py" and "main-host.py" because the discord bot setup is required beforehand (Discord Developer mode). Feel free to contact me or use "Issues" to seek help. but I recommend you to have a look at my tutorial on TDS Medium.
 
 ### Please check my article on TDS for more details: 
 https://towardsdatascience.com/how-to-build-your-own-ai-chatbot-on-discord-c6b3468189f4
