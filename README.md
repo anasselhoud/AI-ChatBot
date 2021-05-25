@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 3. Run the python server:
 
-To interact with the chatbot directly via cmd:
+To interact with the chatbot directly via cmd/terminal:
 ```
 python main.py 
 ```
