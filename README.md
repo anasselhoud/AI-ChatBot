@@ -15,7 +15,7 @@ https://towardsdatascience.com/how-to-build-your-own-ai-chatbot-on-discord-c6b34
 # Installation
 1. Clone and navigate to chatbot directory.
 
-2. Install the required packages.
+2. Install the required packages/dependacies.
 ```
 pip install -r requirements.txt
 ```
