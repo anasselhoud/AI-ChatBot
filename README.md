@@ -5,6 +5,8 @@ I have used Nltk and Tensorflow for the construction of the model. I have shared
 
 I have linked this AI Bot with Discord. This option is not included in the files "main.py" and "main-host.py" because the discord bot setup is required beforehand (Discord Developer mode). Feel free to contact me or use "Issues" to seek help.
 
+### Please check my article on TDS for details: https://towardsdatascience.com/how-to-build-your-own-ai-chatbot-on-discord-c6b3468189f4
+
 ![Alt Text](https://media.giphy.com/media/hVlYEexgKvttKtqhFx/giphy.gif)
 
 # Overview
