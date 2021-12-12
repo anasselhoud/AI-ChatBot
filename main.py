@@ -79,12 +79,11 @@ model = tflearn.DNN(net)
 model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)
 model.save("model.tflearn")
 
-try:
+if len([os.path.isfile(i) for i in ["model.tflearn.meta", "model.tflearn.index"]]) == 2:
     model.load("model.tflearn")
-except:
+else:
     model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)
     model.save("model.tflearn")
-
 
 def bag_of_words(s, words):
     bag = [0 for _ in range(len(words))]
