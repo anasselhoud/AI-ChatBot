@@ -1,4 +1,4 @@
-import nltk 
+import nltk, os
 nltk.download('punkt')
 
 from nltk import word_tokenize,sent_tokenize
@@ -79,9 +79,9 @@ model = tflearn.DNN(net)
 model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)
 model.save("model.tflearn")
 
-try:
+if len([os.path.isfile(i) for i in ["model.tflearn.meta", "model.tflearn.index"]]) == [True, True]:
     model.load("model.tflearn")
-except:
+else:
     model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)
     model.save("model.tflearn")
 
